@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  /* High-quality professional office background URL */
+  background-image: url('https://t4.ftcdn.net/jpg/02/16/23/27/360_F_216232775_kq9yGeJaQaWTeziKvxroSdsK5EwdlerL.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.App {
+  min-height: 100vh;
+}
+
+/* Dark professional overlay */
+.overlay {
+  min-height: 100vh;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Makes the white forms look sharp */
+}
